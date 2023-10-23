@@ -54,7 +54,7 @@ class Body extends StatelessWidget {
                                 duration: const Duration(milliseconds: 700),
                                 backgroundColor: Colors.white,
                                 content: const Text(
-                                  "Thank You For Booking",
+                                  "add to cart successfully",
                                   textAlign: TextAlign.center,
                                   style: TextStyle(
                                       fontSize: 20, color: Colors.green),
